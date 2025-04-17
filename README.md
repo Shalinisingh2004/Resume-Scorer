@@ -19,6 +19,12 @@ This project is a Resume Scoring Agent that processes candidate resumes, extract
 
 cv_scoring_agent/ │ ├── main.py # Entry point ├── resume_collector/ │ └── fetch_resumes.py # Scans and processes resumes from directory ├── resume_parser/ │ └── extract_data.py # Contains text and info extraction logic ├── utils/ │ └── email_sender.py # Email utility to send results ├── config.yaml # Stores sender email and app password └── resumes/ # Folder to drop all input resumes
 
+# OUTPUT
+![image](https://github.com/user-attachments/assets/f518bbaf-1336-4136-bea7-072b1ac1b001)
+
+![image](https://github.com/user-attachments/assets/1cd1181b-e4a4-4c59-b997-2e61ff0aa91b)
+
+
 ---
 
 ## ⚙️ Setup Instructions
@@ -70,11 +76,6 @@ Created by Your Name – feel free to reach out!
 
 Let me know if you’d like a sample `config.yaml`, a `.gitignore` for it, or want to convert it into a website-friendly `README` with visuals.
 
-
-
-![image](https://github.com/user-attachments/assets/496939e1-c6fb-4961-8406-11f4c350d7a1)
-
-![image](https://github.com/user-attachments/assets/62ec0d40-e315-448b-bea2-bf66bc2241d9)
 
 
 
