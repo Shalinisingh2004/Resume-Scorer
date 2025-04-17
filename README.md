@@ -23,8 +23,6 @@ cv_scoring_agent/ │ ├── main.py # Entry point ├── resume_collector
 
 ## ⚙️ Setup Instructions
 
-### 1. Clone the repository
-```bash
 git clone https://github.com/your-username/resume-scoring-agent.git
 cd resume-scoring-agent
 2. Install dependencies
@@ -70,8 +68,10 @@ Created by Your Name – feel free to reach out!
 
 Let me know if you’d like a sample `config.yaml`, a `.gitignore` for it, or want to convert it into a website-friendly `README` with visuals.
 
-//Outputs
-![Image](https://github.com/user-attachments/assets/5958216f-9887-46ea-b680-f0ccda974140)
 
-![image](https://github.com/user-attachments/assets/a58e3b5a-b115-4494-a700-784616f22329)
+![image](https://github.com/user-attachments/assets/496939e1-c6fb-4961-8406-11f4c350d7a1)
+
+![image](https://github.com/user-attachments/assets/62ec0d40-e315-448b-bea2-bf66bc2241d9)
+
+
 
