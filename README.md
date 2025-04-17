@@ -71,7 +71,7 @@ Created by Your Name – feel free to reach out!
 Let me know if you’d like a sample `config.yaml`, a `.gitignore` for it, or want to convert it into a website-friendly `README` with visuals.
 
 //Outputs
-![image](https://github.com/user-attachments/assets/e0e1b2c6-73ba-4765-8615-1cfe288896ba)
+![Image](https://github.com/user-attachments/assets/5958216f-9887-46ea-b680-f0ccda974140)
 
 ![image](https://github.com/user-attachments/assets/a58e3b5a-b115-4494-a700-784616f22329)
 
